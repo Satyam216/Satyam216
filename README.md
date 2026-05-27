@@ -139,9 +139,13 @@ A full-stack real-time chat application with one-to-one and group messaging, onl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam216&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam216&theme=tokyonight" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam216&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyam216&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
