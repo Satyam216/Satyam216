@@ -127,8 +127,21 @@ A full-stack real-time chat application with one-to-one and group messaging, onl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Satyam's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam216&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Satyam216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam216&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165"/>
+</p>
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/satyamjain216?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/satyamjain216/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 <p align="center">
