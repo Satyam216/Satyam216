@@ -135,6 +135,12 @@ A full-stack real-time chat application with one-to-one and group messaging, onl
   </a>
 </p>
 
+### 🏅 Badges Earned
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=satyamjain216&animated=true&theme=dark&border=none" alt="LeetCode Badges"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
