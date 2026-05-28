@@ -1,0 +1,1 @@
+{"errors":[{"message":"That user does not exist.","locations":[{"line":7,"column":5}],"path":["matchedUser"],"extensions":{"handled":true,"skip_sentry":true}}],"data":{"allQuestionsCount":[{"difficulty":"All","count":3944},{"difficulty":"Easy","count":946},{"difficulty":"Medium","count":2061},{"difficulty":"Hard","count":937}],"matchedUser":null,"recentSubmissionList":[]}}
