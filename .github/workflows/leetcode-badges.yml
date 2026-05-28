@@ -13,7 +13,7 @@ jobs:
       
       - name: Fetch LeetCode Badges
         run: |
-          curl -s "https://alfa-leetcode-api.onrender.com/satyamjain216/badges" > badges.json
+          curl -s "https://alfa-leetcode-api.onrender.com/satyam_2106/badges" > badges.json
           cat badges.json
           
       - name: Commit if changed
