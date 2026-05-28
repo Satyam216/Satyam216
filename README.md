@@ -135,13 +135,6 @@ A full-stack real-time chat application with one-to-one and group messaging, onl
   </a>
 </p>
 
-### 🏅 LeetCode Badge
-<p align="center">
-  <a href="https://leetcode.com/u/satyam_2106/">
-    <img src="https://leetcard.jacoblin.cool/satyam_2106?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats Card"/>
-  </a>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
