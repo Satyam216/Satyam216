@@ -1,0 +1,25 @@
+name: Update LeetCode Badges
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Fetch LeetCode Badges
+        run: |
+          curl -s "https://alfa-leetcode-api.onrender.com/satyamjain216/badges" > badges.json
+          cat badges.json
+          
+      - name: Commit if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add badges.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update LeetCode badges"
+          git push
